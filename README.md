@@ -26,7 +26,6 @@
   <img align="center" alt="Photoshop" height="48" width="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png">
   <img align="center" alt="Premiere" height="48" width="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png">
   <img align="center" alt="After Effects" height="48" width="48" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png">
-  <img align="center" alt="Logic Pro" height="48" width="48" src="https://img.icons8.com/color/48/logic-pro.png">
 </div>
 
 <h3>About Me:</h3>
