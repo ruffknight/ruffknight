@@ -10,6 +10,7 @@
 
   <h3>Programming Languages and Frameworks:</h3>
   <img align="center" alt="Angular" height="48" width="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png">
+  <img align="center" alt="React" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
   <img align="center" alt="Javascript" height="48" width="48" src="https://img.icons8.com/color/48/javascript--v1.png">
   <img align="center" alt="Typescript" height="48" width="48" src="https://img.icons8.com/color/48/typescript.png">
   <img align="center" alt="Java" height="48" width="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png">
