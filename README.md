@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vasco! 👋</h1>
 <h2 align="center">I'm a full-stack engineer passionate about using technology to create meaningful experiences!</h2>
 
-- 👨‍💻 Currently working as a Full Stack Engineer at VoiceInteraction.AI
+- 👨‍💻 Currently working as a Software Engineer at Jumpseller
 - 🎓 Bsc and MSc in Computer Science and Engineering from Instituto Superior Técnico
 - 🔍 Passionate about Web Development, Human-Computer Interaction, and crafting intuitive user-centered solutions
 
